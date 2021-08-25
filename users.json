@@ -6,7 +6,6 @@
   ],
   "items": [
     {
-      "id": "1",
       "description": "Defence",
       "troops": [
         "fire",
@@ -15,7 +14,6 @@
       ]
     },
     {
-      "id": "2",
       "description": "Midfield",
       "troops": [
         "fire",
@@ -24,7 +22,6 @@
       ]
     },
     {
-      "id": "3",
       "description": "Attack",
       "troops": [
         "fire",
