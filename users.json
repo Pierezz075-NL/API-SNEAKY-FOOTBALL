@@ -1,21 +1,21 @@
 {
-  "user_id": "user_01",
-  "team": [
-    "New Founders"
-  ],
-  "defence": {
-    "troop1": "fire",
-    "troop2": "fire",
-    "troop3": "fire",
-  },
-  "midfield": {
-    "troop1": "fire",
-    "troop2": "fire",
-    "troop3": "fire",
-  },
-  "attack": {
-    "troop1": "fire",
-    "troop2": "fire",
-    "troop3": "fire",
-  },
+	"user_id": "user_01",
+	"team": [
+		"New Founders"
+	],
+	"defence": {
+		"troop1": "fire",
+		"troop2": "fire",
+		"troop3": "fire"
+	},
+	"midfield": {
+		"troop1": "fire",
+		"troop2": "fire",
+		"troop3": "fire"
+	},
+	"attack": {
+		"troop1": "fire",
+		"troop2": "fire",
+		"troop3": "fire"
+	}
 }
