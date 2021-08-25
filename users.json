@@ -3,30 +3,19 @@
   "team": [
     "New Founders"
   ],
-  "items": [
-    {
-      "description": "Defence",
-      "troops": [
-        "fire",
-        "fire",
-        "fire"
-      ]
-    },
-    {
-      "description": "Midfield",
-      "troops": [
-        "fire",
-        "fire",
-        "fire"
-      ]
-    },
-    {
-      "description": "Attack",
-      "troops": [
-        "fire",
-        "fire",
-        "fire"
-      ]
-    }
-  ]
+  "defence": {
+    "troop1": "fire",
+    "troop2": "fire",
+    "troop3": "fire",
+  },
+  "midfield": {
+    "troop1": "fire",
+    "troop2": "fire",
+    "troop3": "fire",
+  },
+  "attack": {
+    "troop1": "fire",
+    "troop2": "fire",
+    "troop3": "fire",
+  }
 }
