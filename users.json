@@ -9,13 +9,13 @@
 		"troop3": "fire"
 	},
 	"midfield": {
-		"troop1": "fire",
-		"troop2": "fire",
-		"troop3": "fire"
+		"troop1": "water",
+		"troop2": "water",
+		"troop3": "water"
 	},
 	"attack": {
-		"troop1": "fire",
-		"troop2": "fire",
-		"troop3": "fire"
+		"troop1": "earth",
+		"troop2": "earth",
+		"troop3": "earth"
 	}
 }
