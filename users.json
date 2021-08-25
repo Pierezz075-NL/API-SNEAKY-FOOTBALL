@@ -1,5 +1,9 @@
 {
   "user_id": "user_01",
+  "friends": [
+    "user_10,
+    "user_20,
+  ],
   "items": [
     {
       "id": "1",
