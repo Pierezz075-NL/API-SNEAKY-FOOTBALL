@@ -1,8 +1,7 @@
 {
   "user_id": "user_01",
-  "friends": [
-    "user_10",
-    "user_20",
+  "team": [
+    "New Founders"
   ],
   "items": [
     {
