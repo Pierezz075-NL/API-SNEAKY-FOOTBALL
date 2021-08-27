@@ -1,0 +1,21 @@
+{
+	"user_id": "user_01",
+	"team": [
+		"New Founders"
+	],
+	"defence": {
+		"troop1": "fire",
+		"troop2": "earth",
+		"troop3": "earth"
+	},
+	"midfield": {
+		"troop1": "fire",
+		"troop2": "water",
+		"troop3": "fire"
+	},
+	"attack": {
+		"troop1": "earth",
+		"troop2": "water",
+		"troop3": "earth"
+	}
+}
