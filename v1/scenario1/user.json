@@ -1,0 +1,18 @@
+{
+	"user_id": "user_01",
+	"team": [
+		"New Founders"
+	],
+	"defence": {
+		"type": "fire",
+		"subType": "aggresive"
+	},
+	"midfield": {
+		"type": "earth",
+		"subType": "aggresive"
+	},
+	"attack": {
+		"type": "fire",
+		"subType": "aggresive"
+	}
+}

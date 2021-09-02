@@ -1,0 +1,18 @@
+{
+	"user_id": "user_02",
+	"team": [
+		"New Champs"
+	],
+	"defence": {
+		"type": "grass",
+		"subType": "aggresive"
+	},
+	"midfield": {
+		"type": "grass",
+		"subType": "aggresive"
+	},
+	"attack": {
+		"type": "fire",
+		"subType": "aggresive"
+	}
+}

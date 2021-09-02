@@ -1,0 +1,31 @@
+{
+	"user_id": "user_01",
+	"team": [
+		"New Founders"
+	],
+	"defence": [{
+		"troop1": [{
+			"type": "water",
+			"subType": "aggressive"
+		}],		
+		"troop2": [{
+			"type": "water",
+			"subType": "cool"
+		}],	
+		"troop3": [{
+			"type": "water",
+			"subType": "neutral"
+		}]
+	}],
+	"midfield": {
+		"troop1": "water",
+		"troop2": "water",
+		"troop3": "earth"
+	},
+	"attack": {
+		"troop1": "earth",
+		"troop2": "earth",
+		"troop3": "water"
+	},
+
+}

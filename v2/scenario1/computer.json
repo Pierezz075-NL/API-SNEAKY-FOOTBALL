@@ -1,0 +1,18 @@
+{
+	"user_id": "computer_01",
+	"team": [
+		"New Fighters"
+	],
+	"defence": {
+		"type": "water",
+		"subType": "aggresive"
+	},
+	"midfield": {
+		"type": "grass",
+		"subType": "aggresive"
+	},
+	"attack": {
+		"type": "water",
+		"subType": "aggresive"
+	}
+}
