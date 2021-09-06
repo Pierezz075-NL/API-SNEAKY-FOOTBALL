@@ -1,14 +1,12 @@
 {
 	"user_id": "user_01",
-	"team": [
-		"New Founders"
-	],
+	"team": "Fighting Stones",
 	"defence": {
 		"type": "grass",
 		"subType": "aggresive"
 	},
 	"midfield": {
-		"type": "grass",
+		"type": "water",
 		"subType": "aggresive"
 	},
 	"attack": {
