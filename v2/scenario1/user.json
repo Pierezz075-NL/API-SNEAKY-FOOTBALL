@@ -1,16 +1,18 @@
-{
-	"user_id": "user_01",
-	"team": "Fighting Stones",
-	"defence": {
-		"type": "grass",
-		"subType": "aggresive"
-	},
-	"midfield": {
-		"type": "water",
-		"subType": "aggresive"
-	},
-	"attack": {
-		"type": "fire",
-		"subType": "aggresive"
+[
+	{
+		"user_id": "user_01",
+		"team": "Fighting Stones",
+		"defence": {
+			"type": "grass",
+			"subType": "aggresive"
+		},
+		"midfield": {
+			"type": "water",
+			"subType": "aggresive"
+		},
+		"attack": {
+			"type": "fire",
+			"subType": "aggresive"
+		}
 	}
-}
+]
