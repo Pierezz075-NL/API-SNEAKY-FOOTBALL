@@ -1,0 +1,34 @@
+[
+	{
+		"user_id": "user_01",
+		"team": "Fighting Stones",
+		"defence": {
+			"type": "grass",
+			"subType": "aggresive"
+		},
+		"midfield": {
+			"type": "water",
+			"subType": "aggresive"
+		},
+		"attack": {
+			"type": "fire",
+			"subType": "aggresive"
+		}
+	},
+    {
+		"user_id": "computer_01",
+		"team": "New Fighters",
+		"defence": {
+			"type": "water",
+			"subType": "aggresive"
+		},
+		"midfield": {
+			"type": "grass",
+			"subType": "aggresive"
+		},
+		"attack": {
+			"type": "water",
+			"subType": "aggresive"
+		}
+	}
+]
